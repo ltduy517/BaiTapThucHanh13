@@ -12,3 +12,4 @@ C:\Users\TRUNG DUY\BaiTapThucHanh13\btvn\obj\Debug\net10.0\refint\btvn.dll
 C:\Users\TRUNG DUY\BaiTapThucHanh13\btvn\obj\Debug\net10.0\btvn.pdb
 C:\Users\TRUNG DUY\BaiTapThucHanh13\btvn\obj\Debug\net10.0\btvn.genruntimeconfig.cache
 C:\Users\TRUNG DUY\BaiTapThucHanh13\btvn\obj\Debug\net10.0\ref\btvn.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh13\btvn\obj\Debug\net10.0\btvn.sourcelink.json
